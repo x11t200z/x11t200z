@@ -10,11 +10,11 @@
 
 ###
 
-<img align="left" height="139" src="https://i.pinimg.com/originals/43/78/55/437855c8c4fdd9903e5f324fe019f3ec.gif"  />
+<h4 align="left">✨ Finding bugs since 2021<br>📚 I'm currently learning Information Security at KMA<br>🎯 Goals: Self-employment<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
 
 ###
 
-<h4 align="left">✨ Finding bugs since 2021<br>📚 I'm currently learning Information Security at KMA<br>🎯 Goals: Self-employment<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+<img align="right" height="139" src="https://i.pinimg.com/originals/43/78/55/437855c8c4fdd9903e5f324fe019f3ec.gif"  />
 
 ###
 
@@ -36,6 +36,10 @@
 ###
 
 <h2 align="left">💻 I code with</h2>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
 
 ###
 
@@ -68,9 +72,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
 
 ###
