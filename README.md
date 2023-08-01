@@ -1,8 +1,8 @@
-<h1 align="left"> 👋 Hi guys !!! </h1>
+<h1 align="left">Hi guys 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Duc Thang and I'm a sophomore at Academy of Cryptography Techniques (KMA)</p>
+<p align="left">My name is Duc Thang and I'm a sophomore at Academy of Cryptography Techniques (KMA)<br>I come from Ninh Binh and live in Hanoi</p>
 
 ###
 
@@ -10,17 +10,28 @@
 
 ###
 
-<h4 align="left">✨ Finding bugs since 2021<br>📚 I'm currently learning Information Security at KMA<br>🎯 Goals: Self-employment<br>🎲 Fun fact: <br>- Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+<img align="left" height="139" src="https://i.pinimg.com/originals/43/78/55/437855c8c4fdd9903e5f324fe019f3ec.gif"  />
 
 ###
 
+<h4 align="left">✨ Finding bugs since 2021<br>📚 I'm currently learning Information Security at KMA<br>🎯 Goals: Self-employment<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img height="300" src="https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/343635291_803979531300749_6476469380117571395_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=w2_B9fH9gCoAX8GrSJp&_nc_ht=scontent.fhan3-4.fna&oh=00_AfDLjH61oSXThiIFlAgkLF5pne6AorUjeK5rErJFQbPfhA&oe=64CD92C5"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=x11t200z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="232" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=x11t200z&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=4&order=3" height="232" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">💻 I code with</h2>
 
 ###
 
@@ -53,5 +64,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
 
 ###
