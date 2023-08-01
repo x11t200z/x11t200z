@@ -21,8 +21,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11t200z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="232" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=x11t200z&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=4&order=3" height="232" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=x11t200z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=x11t200z&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=4&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
