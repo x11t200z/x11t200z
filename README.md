@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Finding bugs since 2021<br>📚 I'm currently learning Information Security at KMA<br>🎯 Goals: Self-employment<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+<h4 align="left">✨ Loading...<br>📚 I'm currently learning Information Security at KMA<br>🎯 Loading...<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
 
 ###
 
