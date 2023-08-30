@@ -65,7 +65,7 @@
   <a href="linkedin.com/in/luuducthang" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="linkedin.com/in/luuducthang" target="_blank">
+  <a href="https://www.codechef.com/users/x1_1t_200z" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="52" height="40" alt="codechef logo"  />
   </a>
 <!--
