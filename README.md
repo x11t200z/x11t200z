@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Loading...<br>📚 I'm currently learning Information Security at KMA<br>🎯 Loading...<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+<h4 align="left">✨ I will show you the exit sign<br>📚 I'm currently learning Information Security at KMA<br>🎯 V?<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
 
 ###
 
@@ -21,7 +21,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11t200z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=x11t200z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=x11t200z&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=4&order=3" height="200" alt="streak graph"  />
+</div>
  
 
 ###
@@ -73,6 +75,14 @@
   </a> -->
   <a href="https://www.instagram.com/gnaht.naoco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/313uohxpxukkrbqovly4nsi2klbm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uohxpxukkrbqovly4nsi2klbm&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
