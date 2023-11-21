@@ -24,7 +24,7 @@
  <tr>
    <td style="border: none;">
      <a href="https://app.daily.dev/x11t200z">
-       <img src="https://api.daily.dev/devcards/6fe32dce5e06405b925fc07027621f98.png?r=f0j" width="500" alt="Luu Duc Thang's Dev Card"/>
+       <img src="https://api.daily.dev/devcards/6fe32dce5e06405b925fc07027621f98.png?r=f0j" width="400" alt="Luu Duc Thang's Dev Card"/>
      </a>
    </td>
    <td>
