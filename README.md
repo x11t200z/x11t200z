@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Duc Thang and I'm a sophomore at Academy of Cryptography Techniques (KMA)<br>I come from Ninh Binh and live in Hanoi</p>
+<p align="left">My name is Duc Thang and I'm a sophomore at Academy of Cryptography Techniques (KMA)</p>
 
 ###
 
