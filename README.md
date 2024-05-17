@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ "I will show you the exit sign"<br>📚 I'm currently learning Information Security at KMA<br>🎯 Road to V?<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
+<h4 align="left">✨ "I will show you the exit sign"<br>📚 I'm currently learning Information Security at KMA<br>🎲 Fun fact: <br>   > Often I want to sleep without being able to, and vice versa, when I am sleepy, it is forbidden to sleep.</h4>
 
 ###
 
