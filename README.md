@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ "I will show you the exit sign"<br>📚 I'm currently learning Information Security at KMA<br>🎲 Fun fact: <br>   > Forget everthing</h4>
+<h4 align="left">✨ "I will show you the exit sign"<br>📚 I'm currently learning Information Security at KMA<br>🎲 Fun fact: <br>   > Forget everything</h4>
 
 ###
 
