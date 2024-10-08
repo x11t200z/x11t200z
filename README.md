@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Duc Thang and I'm a sophomore at Academy of Cryptography Techniques (KMA)</p>
+<p align="left">My name is Duc Thang and I'm a junior at Academy of Cryptography Techniques (KMA)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ "I will show you the exit sign"<br>📚 I'm currently learning Information Security at KMA<br>🎲 Fun fact: <br>   > Forget everything</h4>
+<h4 align="left">✨ "Captain Teemo on duty"<br>📚 I'm currently learning Information Security at KMA<br>🎲 Fun fact: <br>   > Forget everything</h4>
 
 ###
 
