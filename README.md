@@ -8,8 +8,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C/C++, Java, Assembly x86, x64
-- **Web:** HTML, CSS, JavaScript, Jekyll
+- **Languages:** Python, C/C++, Java, Assembly (x86, x64)
 - **Security:**
   - SIEM: Wazuh, ELK Stack, Splunk
   - Forensics – Wireshark
@@ -17,6 +16,7 @@
   - Web App Assessment – OWASP ZAP, Burp Suite
   - Malware Analysis: IDA, Ghidra, Regshot, Procmon
   - Information Gathering – Nmap
+- **Web:** HTML, CSS, JavaScript, Jekyll
 - **Other:** Git, Docker
 <!-- 
 Social Engineering – GoPhish, HiddenEye, SocialFish
