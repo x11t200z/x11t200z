@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C/C++, Java, Assembly (x86, x64)
+- **Languages:** Python, C/C++, Java, Assembly(x86, x64)
 - **Security:**
   - SIEM: Wazuh, ELK Stack, Splunk
   - Forensics – Wireshark
@@ -32,12 +32,6 @@ Endpoint Security – CrowdStrike Falcon, SentinelOne, Carbon Black
 Threat Intelligence – ThreatConnect, AlienVault OTX, MISP
 Information Gathering – Nmap, Shodan, Maltego, OSINT Framework
  -->
----
-
-## 📊 GitHub Stats
-![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=x11t200z&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x11t200z&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 🌐 Connect with me
