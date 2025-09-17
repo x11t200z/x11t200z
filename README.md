@@ -11,11 +11,11 @@
 - **Languages:** Python, C/C++, Java, Assembly(x86, x64)
 - **Security:**
   - SIEM: Wazuh, ELK Stack, Splunk
-  - Forensics – Wireshark
-  - Network Defense – Snort, Suricata, pfSense
-  - Web App Assessment – OWASP ZAP, Burp Suite
+  - Forensics: Wireshark
+  - Network Defense: Snort, Suricata, pfSense
+  - Web App Assessment: OWASP ZAP, Burp Suite
   - Malware Analysis: IDA, Ghidra, Regshot, Procmon
-  - Information Gathering – Nmap
+  - Information Gathering: Nmap, OSINT Framework
 - **Web:** HTML, CSS, JavaScript, Jekyll
 - **Other:** Git, Docker
 <!-- 
