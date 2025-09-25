@@ -16,7 +16,7 @@
   - Web App Assessment: OWASP ZAP, Burp Suite
   - Malware Analysis: IDA, Ghidra, Regshot, Procmon
   - Information Gathering: Nmap, OSINT Framework
-- **Web:** HTML, CSS, JavaScript, Jekyll
+- **Web:** HTML, CSS, JavaScript, PHP, Jekyll
 - **Other:** Git, Docker
 <!-- 
 Social Engineering – GoPhish, HiddenEye, SocialFish
