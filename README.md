@@ -35,9 +35,8 @@ Information Gathering – Nmap, Shodan, Maltego, OSINT Framework
 ---
 
 ## 🌐 Connect with me
-- 📫 Email: luuducthangxtz@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/luuducthang](https://linkedin.com/in/yourprofile)  
-- 🌍 Blog: [x11t200z's Blog](https://x11t200z.netlify.app/)
-
+- 💼 [Linkedin](https://linkedin.com/in/yourprofile)  
+- 🌍 [x11t200z's Blog](https://x11t200z.netlify.app/)
+- 🌍 [Medium](https://x11t200z.netlify.app/)
 ---
 
