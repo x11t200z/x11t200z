@@ -2,13 +2,12 @@
 
 🎓 I'm a fourth-year student at **Academy of Cryptography Techniques (KMA)**.  
 💻 Passionate about **Cybersecurity**, especially **Blue Team**.  
-🚀 Goal: Becoming a **Security Engineer**.
 
 ---
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, C/C++
-- **Security:** ELK Stack, Splunk, Wireshark, Snort, pfSense, OWASP ZAP, Burp Suite, nmap, Nessus, IDA, Virustotal, Hybrid Analysis, Regshot, procmon, sysmon
+- **Security:** ELK Stack, Splunk, Wireshark, Snort, pfSense, OWASP ZAP, Burp Suite, nmap, Nessus, IDA, Virustotal, sysmon
 - **Cybersecurity Concepts:** CIA, Cyber Kill Chain, MITRE&ATTCK, OWASP TOP 10
 - **Web:** HTML, CSS, JavaScript, PHP
 ---
