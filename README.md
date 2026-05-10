@@ -91,14 +91,18 @@
 ## `> neofetch --stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x11t200z&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11t200z&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+  <picture>
+    <img height="180em" src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/github-stats.svg" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <img height="180em" src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/github-top-langs.svg" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x11t200z&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=x11t200z&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
 </div>
 
 ---
