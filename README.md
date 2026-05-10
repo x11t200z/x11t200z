@@ -90,21 +90,7 @@
 <!-- GITHUB STATS -->
 ## `> neofetch --stats`
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
-  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
-  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=x11t200z&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
