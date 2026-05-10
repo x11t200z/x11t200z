@@ -91,12 +91,17 @@
 ## `> neofetch --stats`
 
 <div align="center">
-  <picture>
-    <img height="180em" src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/github-stats.svg" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <img height="180em" src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/github-top-langs.svg" alt="Top Languages"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/x11t200z/x11t200z/output/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time"/>
 </div>
 
 <br>
