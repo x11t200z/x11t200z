@@ -32,58 +32,89 @@
 ## `> cat /etc/skills.conf`
 
 <details>
-<summary>🛡️ Security Tools & Platforms</summary>
+<summary>🔍 SOC Analyst</summary>
 <br>
+
+**`Alert Triage & Monitoring`**
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hexrays&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ProcMon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cortex_XDR-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
+
+**`Network Analysis`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
 </details>
 
 <details>
-<summary>💻 Programming Languages</summary>
+<summary>🦠 Malware Analyst</summary>
 <br>
+
+**`Static Analysis`**
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logo=hexrays&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white"/>
+</p>
+
+**`Dynamic Analysis`**
+<p align="center">
+  <img src="https://img.shields.io/badge/ProcMon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regshot-2B579A?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+**`Threat Intel & Sandbox`**
+<p align="center">
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hybrid_Analysis-1A1A2E?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+</p>
+
+</details>
+
+<details>
+<summary>🕵️ Penetration Tester</summary>
+<br>
+
+**`Web App Testing`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+**`Vulnerability Scanning`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
+</p>
+
+</details>
+
+<details>
+<summary>💻 Developer</summary>
+<br>
+
+**`Languages`**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
-</details>
 
-<details>
-<summary>🌐 Web Technologies</summary>
-<br>
+**`Web`**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-</details>
-
-<details>
-<summary>🧠 Cybersecurity Concepts</summary>
-<br>
-
-| Framework | Description |
-|:---------:|:------------|
-| 🔺 **MITRE ATT&CK** | Adversary tactics, techniques & procedures |
-| 🔗 **Cyber Kill Chain** | Attack lifecycle framework |
-| 🔐 **CIA Triad** | Confidentiality, Integrity, Availability |
-| 🕸️ **OWASP Top 10** | Critical web application security risks |
 
 </details>
+
 
 ---
 
